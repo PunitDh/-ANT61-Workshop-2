@@ -1,0 +1,1 @@
+from gym_tictactoe.envs.TicTacToe import TicTacToe
